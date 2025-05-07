@@ -1,5 +1,4 @@
-
-# He hoomaka API
+# paikona.py
 
 def pai(x):
     print(x)
@@ -24,3 +23,14 @@ def helu(x):
 
 def papa(x):
     return(list(x))
+
+def dubies():
+    return("I smoke fat dubies")
+
+def ope():
+    return("ope")
+
+import math
+makemakika=math
+
+__all__ = ['pai', 'dubies', 'ano', 'loihi', 'komo', 'koli', 'kaula', 'helu', 'papa', 'ope', 'makemakika']
