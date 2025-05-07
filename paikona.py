@@ -1,5 +1,8 @@
 # paikona.py
 
+import math
+makemakika=math 
+
 def pai(x):
     print(x)
 
@@ -30,7 +33,6 @@ def dubies():
 def ope():
     return("ope")
 
-import math
-makemakika=math
+
 
 __all__ = ['pai', 'dubies', 'ano', 'loihi', 'komo', 'koli', 'kaula', 'helu', 'papa', 'ope', 'makemakika']
