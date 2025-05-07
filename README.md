@@ -10,7 +10,7 @@ _____________________________________________________
 
 e molokai i keia pala ma ka wahi like a kau pala hanahana
 
-e huki e like me keia => from paikona import *
+e huki e like me keia => ```from paikona import *```
 
 ______________________________________________________
 Pehea e Hoohana
